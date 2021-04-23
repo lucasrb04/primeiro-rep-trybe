@@ -15,4 +15,4 @@ O JavaScript te permite dar dinamismos Ã s pÃ¡ginas. Ã‰ ele quem garante q
 
 primeira modificação
 
-segunda modificação
+segunda modificação // resolvendo conflito
