@@ -1,2 +1,0 @@
-Adicionando na linha 30 o oitavo motivo: "A linguagem JavaScript pode ser aprendida facilmente, ainda que não seja a mais facil."
-Adicionando na linha 32 o nono motivo para aprender JavaScript: "Estimula o desenvolvimento do raciocinio logico do programador."
