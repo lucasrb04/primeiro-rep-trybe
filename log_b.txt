@@ -1,0 +1,2 @@
+Linha 29 e 30 adicionadas.
+Adicionado item #8 na lista "5 motivos para vocÃª aprender JavaScript"
